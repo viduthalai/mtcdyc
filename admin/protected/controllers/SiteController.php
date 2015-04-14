@@ -41,14 +41,33 @@ class SiteController extends Controller
 	 */
 	public function actionIndex()
 	{
-		$this->render('index', array());
+		$user = Yii::app()->session['churchDetails'];
+		if($user['id']){
+			$this->render('register', array());
+		}else{
+			$this->redirect('login');
+		}
 	}
 	
-	public function actionRegister()
+
+		public function actionRegister()
 	{
+		echo "string";
 		$this->render('register', array());
 	}
-	
+
+		public function actionChurchRegister()
+	{
+		 $sql = "SELECT * FROM chruch_list where email ='".$_GET['email']."'";
+		 $dataReader =  Yii::app()->db->createCommand($sql)->queryRow();
+		 if(isset($dataReader['id'])){
+		 	echo 1;exit();
+		 }else{
+		 	 $updateSql = "INSERT INTO chruch_list (email,church_name,pass) VALUES('".$_GET['email']."','".$_GET['parish']."','".$_GET['pass']."')";
+			 $updateSql = Yii::app()->db->createCommand($updateSql)->execute();
+			 echo 2;exit();
+		 }
+        }
 	/**
 	 * This is the action to handle external exceptions.
 	 */
@@ -69,29 +88,28 @@ class SiteController extends Controller
 	 */
 	public function actionLogin()
 	{
-		$model=new LoginForm;
-
+		 
+		$login =0;
 		// if it is ajax validation request
-		if(isset($_POST['ajax']) && $_POST['ajax']==='login-form')
+		if(isset($_POST['username']) && isset($_POST['password']))
 		{
-			echo CActiveForm::validate($model);
-			Yii::app()->end();
-		}
-
-		// collect user input data
-		if(isset($_POST['LoginForm']))
-		{
-			$model->attributes=$_POST['LoginForm'];
+			$sql = "SELECT * FROM chruch_list where email ='".$_POST['username']."' and pass='".$_POST['password']."'";
+			$dataReader =  Yii::app()->db->createCommand($sql)->queryRow();
 			// validate user input and redirect to the previous page if valid
-			if($model->validate() && $model->login())
+			if(isset($dataReader['id'])){
+				Yii::app()->session['churchDetails'] = $dataReader;
 				$this->redirect(Yii::app()->user->returnUrl);
+			}else{
+				$login =1;
+			}
 		}
 		// display the login form
-		$this->render('login',array('model'=>$model));
+		$this->render('login',array('login' => $login));
 	}
 	
 	public function actionLogout()
 	{
+		unset(Yii::app()->session['churchDetails']);
 		Yii::app()->user->logout();
 		$this->redirect(Yii::app()->homeUrl);
 	}

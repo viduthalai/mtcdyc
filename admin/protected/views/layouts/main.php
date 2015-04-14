@@ -20,6 +20,9 @@
 	    <!-- Custom Fonts -->
 	    <link href="<?php echo Yii::app()->request->baseUrl; ?>/resource/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	       <!-- jQuery -->
+	    <script src="<?php echo Yii::app()->request->baseUrl; ?>/resource/js/angular.min.js"></script>
+     <script src="<?php echo Yii::app()->request->baseUrl; ?>/resource/js/angular-route.js">   </script>    
+
     <script src="<?php echo Yii::app()->request->baseUrl; ?>/resource/bower_components/jquery/dist/jquery.min.js"></script>
 
 	    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -30,29 +33,14 @@
 	    <![endif]-->
         <!-- Google Analytics Start -->
 			<script type="text/javascript">
-				function hide_div_byId(div_id) {
-					document.getElementById(div_id).style.display = 'none';
-				}
-				var _gaq = _gaq || [];
-				_gaq.push([ '_setCustomVar', 1, 'user', 'anonymous', 1 ]);
-				_gaq.push([ '_setAccount', 'UA-400510-1' ]);
-				_gaq.push([ '_setDomainName', 'freshersworld.com' ]);
-				_gaq.push([ '_trackPageview' ]);
-			
-				(function() {
-					var ga = document.createElement('script');
-					ga.type = 'text/javascript';
-					ga.async = true;
-					ga.src = ('https:' == document.location.protocol ? 'https://ssl'
-							: 'http://www')
-							+ '.google-analytics.com/ga.js';
-					var s = document.getElementsByTagName('script')[0];
-					s.parentNode.insertBefore(ga, s);
-				})();
+				
 			</script>
+			 <script type="text/javascript">
+    var app=angular.module('mtcdyc',['ngRoute']);
+		</script>
 </head>
   <body >
-        <div id="container" >
+        <div id="container" ng-app='mtcdyc' >
         
     <div id="wrapper">
     	<?php include 'header.php'; ?>
@@ -67,17 +55,18 @@
 	
 
      </div>
-
+    
  
     <!-- Bootstrap Core JavaScript -->
     <script src="<?php echo Yii::app()->request->baseUrl; ?>/resource/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <!-- Metis Menu Plugin JavaScript -->
     <script src="<?php echo Yii::app()->request->baseUrl; ?>/resource/bower_components/metisMenu/dist/metisMenu.min.js"></script>
     <!-- Morris Charts JavaScript -->
-    <script src="<?php echo Yii::app()->request->baseUrl; ?>/resource/bower_components/raphael/raphael-min.js"></script>
+    <script src="<?php echo Yii::app()->request->baseUrl; ?>/resource/bower_components/raphael/raphael-min.JavaScript"></script>
     <script src="<?php echo Yii::app()->request->baseUrl; ?>/resource/bower_components/morrisjs/morris.min.js"></script>
     <script src="<?php echo Yii::app()->request->baseUrl; ?>/resource/js/morris-data.js"></script>
     <!-- Custom Theme JavaScript -->
     <script src="<?php echo Yii::app()->request->baseUrl; ?>/resource/dist/js/sb-admin-2.js"></script>
+    
     </body>
 </html>

@@ -3433,3 +3433,1424 @@ Stack trace:
 REQUEST_URI=/mtcdyc/admin/resource/dist/js/bootstrap-timepicker.min.css
 HTTP_REFERER=http://localhost/mtcdyc/admin/site/register
 ---
+2015/04/14 19:22:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/images/favicon.ico".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/images...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/images/favicon.ico
+---
+2015/04/14 19:22:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/images/favicon.ico".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/images...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/images/favicon.ico
+---
+2015/04/14 19:23:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "chruchRegister".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('chruchRegister')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('chruchRegister')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/chruchRegi...')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/chruchRegister?parish=dfgsd&email=sfd@dafs.com&pass=fdsgsd
+HTTP_REFERER=http://localhost/mtc/register.html
+---
+2015/04/14 19:25:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "churchRegister".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('churchRegister')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('churchRegister')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/churchRegi...')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/churchRegister?parish=dfgsd&email=sfd@dafs.com&pass=fdsgsd
+HTTP_REFERER=http://localhost/mtc/register.html
+---
+2015/04/14 19:26:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "resource".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('resource')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('resource')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/resource/i...')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/resource/images/favicon.ico
+---
+2015/04/14 19:26:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "resource".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('resource')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('resource')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/resource/i...')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/resource/images/favicon.ico
+---
+2015/04/14 19:45:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "churchRegister".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('churchRegister')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('churchRegister')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/churchRegi...')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/churchRegister?parish=dsfds&email=sfd@dafs.com&pass=fdsgf
+HTTP_REFERER=http://localhost/mtc/register.html
+---
+2015/04/14 19:46:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "churchRegister".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('churchRegister')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('churchRegister')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/churchRegi...')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/churchRegister?parish=dsfds&email=sfd@dafs.com&pass=fdsgf
+---
+2015/04/14 19:46:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "resource".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('resource')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('resource')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/resource/i...')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/resource/images/favicon.ico
+---
+2015/04/14 19:46:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "resource".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('resource')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('resource')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/resource/i...')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/resource/images/favicon.ico
+---
+2015/04/14 19:47:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "churchRegister".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('churchRegister')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('churchRegister')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/churchRegi...')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/churchRegister?parish=dsfds&email=sfd@dafs.com&pass=fdsgf
+---
+2015/04/14 19:47:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "churchRegister".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('churchRegister')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('churchRegister')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/churchRegi...')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/churchRegister?parish=dsfds&email=sfd@dafs.com&pass=fdsgf
+---
+2015/04/14 20:12:10 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@dafs.com' at line 1. The SQL statement executed was: SELECT * FROM chruch_list where email =sfd@dafs.com.
+in E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php (57)
+in E:\work\wamp\www\mtc\admin\index.php (13)
+2015/04/14 20:12:10 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@dafs.com' at line 1. The SQL statement executed was: SELECT * FROM chruch_list where email =sfd@dafs.com' in E:\work\wamp\www\yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php(57): CDbCommand->queryAll()
+#2 E:\work\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionChurchRegister()
+#3 E:\work\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 E:\work\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 E:\work\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('churchRegister')
+#7 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/churchRegi...')
+#8 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#9 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/mtc/admin/site/churchRegister?parish=dsfds&email=sfd@dafs.com&pass=fdsgf
+---
+2015/04/14 20:20:08 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'fdsgf' for column 'pass' at row 1. The SQL statement executed was: UPDATE chruch_list SET email ='aa1', church_name ='dsfds',pass ='fdsgf' .
+in E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php (62)
+in E:\work\wamp\www\mtc\admin\index.php (13)
+2015/04/14 20:20:08 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'fdsgf' for column 'pass' at row 1. The SQL statement executed was: UPDATE chruch_list SET email ='aa1', church_name ='dsfds',pass ='fdsgf' ' in E:\work\wamp\www\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php(62): CDbCommand->execute()
+#1 E:\work\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionChurchRegister()
+#2 E:\work\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 E:\work\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#4 E:\work\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('churchRegister')
+#6 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/churchRegi...')
+#7 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#8 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/mtc/admin/site/churchRegister?parish=dsfds&email=aa1&pass=fdsgf
+---
+2015/04/14 20:45:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login
+---
+2015/04/14 20:45:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/images/favicon.ico".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/images...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/images/favicon.ico
+---
+2015/04/14 20:45:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/images/favicon.ico".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/images...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/images/favicon.ico
+---
+2015/04/14 20:49:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:49:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:50:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:50:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:51:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:51:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:53:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:53:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:54:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:54:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:56:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:56:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:56:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:56:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:57:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 20:57:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:02:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:02:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:02:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.html".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('index.html')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('index.html')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/index.html')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/index.html
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:02:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/index.html
+---
+2015/04/14 21:02:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/index.html
+---
+2015/04/14 21:02:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:02:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:02:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:02:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:03:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:03:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:04:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:05:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:05:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:05:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "admin".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('admin')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('admin')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/admin/site...')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/admin/site/login?user=fsdgsdf@fsdfs&pass=fss
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:06:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:06:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:06:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "site".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('site')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('site')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/site/login')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/site/login?user=fsdgsdf@fsdfs&pass=fssfsdf
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:07:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:07:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:10:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login?username=fsdgsdf%40fsdfs&password=dsfs
+---
+2015/04/14 21:10:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login?username=fsdgsdf%40fsdfs&password=dsfs
+---
+2015/04/14 21:10:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:10:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "site".' in E:\work\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('site')
+#1 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('site')
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/site/login')
+#3 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/mtc/admin/site/site/login?user=fsdgsdf@fsdfs&pass=dgdfghdf
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:11:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:11:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:15:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:15:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:15:47 [error] [php] Undefined variable: dataReadel (E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php:94)
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#1 E:\work\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#3 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\work\wamp\www\mtc\admin\index.php(13): CWebApplication->run()
+REQUEST_URI=/mtc/admin/site/login?user=fsdgsdf@fsdfs&pass=fss
+in E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php (94)
+in E:\work\wamp\www\mtc\admin\index.php (13)
+2015/04/14 21:16:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:16:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:16:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:16:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:16:59 [error] [php] Undefined variable: dataReade (E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php:93)
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#1 E:\work\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#3 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\work\wamp\www\mtc\admin\index.php(13): CWebApplication->run()
+REQUEST_URI=/mtc/admin/site/login?user=fsdgsdf@fsdfs&pass=sdfsfd
+in E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php (93)
+in E:\work\wamp\www\mtc\admin\index.php (13)
+2015/04/14 21:17:49 [error] [php] Undefined offset: 0 (E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php:93)
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#1 E:\work\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#3 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\work\wamp\www\mtc\admin\index.php(13): CWebApplication->run()
+REQUEST_URI=/mtc/admin/site/login?user=aa1&pass=23
+in E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php (93)
+in E:\work\wamp\www\mtc\admin\index.php (13)
+2015/04/14 21:17:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login?user=aa1&pass=23
+---
+2015/04/14 21:18:08 [error] [php] Undefined offset: 1 (E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php:93)
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#1 E:\work\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#3 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\work\wamp\www\mtc\admin\index.php(13): CWebApplication->run()
+REQUEST_URI=/mtc/admin/site/login?user=aa1&pass=23
+in E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php (93)
+in E:\work\wamp\www\mtc\admin\index.php (13)
+2015/04/14 21:18:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login?user=aa1&pass=23
+---
+2015/04/14 21:18:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login?user=aa1&pass=23
+---
+2015/04/14 21:18:17 [error] [php] Undefined offset: 0 (E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php:93)
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#1 E:\work\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#3 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\work\wamp\www\mtc\admin\index.php(13): CWebApplication->run()
+REQUEST_URI=/mtc/admin/site/login?user=aa1&pass=23
+in E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php (93)
+in E:\work\wamp\www\mtc\admin\index.php (13)
+2015/04/14 21:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login?user=aa1&pass=23
+---
+2015/04/14 21:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login?user=aa1&pass=23
+---
+2015/04/14 21:18:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:18:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:19:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:19:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:22:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:22:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:22:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:22:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:22:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:23:15 [error] [php] Undefined index: user (E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php:91)
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#1 E:\work\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#2 E:\work\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#3 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#5 E:\work\wamp\www\mtc\admin\index.php(13): CWebApplication->run()
+REQUEST_URI=/mtc/admin/site/login
+in E:\work\wamp\www\mtc\admin\protected\controllers\SiteController.php (91)
+in E:\work\wamp\www\mtc\admin\index.php (13)
+2015/04/14 21:23:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:23:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:23:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.html".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login.html')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login.html
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:23:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login.html
+---
+2015/04/14 21:27:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.html".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login.html')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login.html
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:27:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login.html
+---
+2015/04/14 21:27:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:27:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:27:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:28:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:31:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:38:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:38:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:40:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:43:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:43:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:43:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:43:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login
+---
+2015/04/14 21:43:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:43:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login
+---
+2015/04/14 21:43:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:43:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:43:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/site/login
+---
+2015/04/14 21:43:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:43:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:43:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/site/login
+---
+2015/04/14 21:43:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:44:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/site/login
+---
+2015/04/14 21:44:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:44:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:44:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login
+---
+2015/04/14 21:44:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:45:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<controller>/login".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('<controller>/lo...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login
+---
+2015/04/14 21:45:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:45:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:45:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<controller>/login".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('<controller>/lo...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login
+---
+2015/04/14 21:45:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:45:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:46:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "<action:\w+>".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('<action:\\w+>')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/site/login
+---
+2015/04/14 21:46:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/site/login
+---
+2015/04/14 21:46:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login
+---
+2015/04/14 21:46:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:47:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:47:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:47:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:47:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:47:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.html".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login.html')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login.html
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:47:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login.html
+---
+2015/04/14 21:48:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:48:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login.html".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('login.html')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/login.html
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:48:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login.html
+---
+2015/04/14 21:48:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:48:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:48:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:48:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:49:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:49:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:49:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:49:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/login
+---
+2015/04/14 21:49:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/
+---
+2015/04/14 21:49:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/register
+---
+2015/04/14 21:49:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "resource/bower_components/raphael/raphael-min.JavaScript".' in E:\work\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\work\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('resource/bower_...')
+#1 E:\work\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 E:\work\wamp\www\mtc\admin\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/mtc/admin/resource/bower_components/raphael/raphael-min.JavaScript
+HTTP_REFERER=http://localhost/mtc/admin/register
+---
