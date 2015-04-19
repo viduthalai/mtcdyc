@@ -44,10 +44,10 @@
         
     <div id="wrapper">
     	<?php include 'header.php'; ?>
-    <div class="col-md-3 sideBar">
+    <div class="col-md-2 sideBar">
     	<?php include 'sideBar.php'; ?>
           </div>
-<div class="col-md-9"> 
+<div class="col-md-10"> 
 	   		<?php echo $content; ?>    	
 </div>
 
